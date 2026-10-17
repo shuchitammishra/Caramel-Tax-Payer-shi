@@ -1,0 +1,7 @@
+indian_stock_backtester/
+├── requirements.txt      # Dependencies (including scipy & numpy)
+├── config.py            # Benchmark options & screening parameters
+├── screener.py          # Market-wide valuation screener
+├── stats_calculator.py  # Calculates Z-score, Sharpe, Beta, Alpha, Drawdowns
+├── visualizer.py        # Comparative charting engine
+└── main.py              # Interactive user menu
